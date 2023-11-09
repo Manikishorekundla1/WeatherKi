@@ -13,6 +13,9 @@
         android:theme="@style/Theme.WeatherKi"
         tools:targetApi="34">
         <activity
+            android:name=".BrodCastActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
