@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892077971058",
+    "project_id": "weatherki-30bed",
+    "storage_bucket": "weatherki-30bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892077971058:android:1e93235251ce54cafe94eb",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.w9613019.weatherki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxx07gwZvr1OBlglOpqTXvN5PR-U9Edqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
